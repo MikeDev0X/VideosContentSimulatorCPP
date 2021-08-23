@@ -1,0 +1,25 @@
+e 01 Paper_and_stone Ciencia_ficcion 35 4 Jupiter's_Legacy 2 1
+p 02 Parasite Drama 131 4
+p 03 Arrival Ciencia_ficcion 116 4
+p 04 Spiderman_far_from_home Aventura 129 4
+e 05 Sanctum Ciencia_ficcion 42 5 The_100 71 7
+p 06 World_war_z Terror 116 3
+p 07 Edge_of_tomorrow Accion 113 4
+p 08 American_assasin Accion 111 3
+e 09 Run_boy_run Ciencia_ficcion 58 4 The_umbrella_academy 2 1
+p 10 Eternal_sunshine_of_the_spotless_mind Drama 107 5
+p 11 About_time Drama 123 4
+p 12 A_quiet_place Ciencia_ficcion 90 4
+e 13 The_paradise Ciencia_ficcion 73 5 Dark 1 3
+p 14 Army_of_the_death Ciencia_ficcion 148 5
+p 15 Superbad Comedia 113 4
+p 16 The_matrix Ciencia_ficcion 136 5
+e 17 Daredevil Ciencia_ficcion 56 5 Daredevil 13 1
+p 18 Shutter_island Suspenso 138 5
+p 19 Bird_Box Suspenso 124 3
+p 20 Divergent Ciencia_ficcion 139 4
+e 21 Chapter_1_angel_of_death Ciencia_ficcion 68 5 The_OA 1 2
+p 22 Shrek Comedia 90 5
+p 23 Zombieland Ciencia_ficcion 87 4
+p 24 Split Suspenso 117 5
+e 25 Felina Drama 55 5 Breaking_bad 16 5
